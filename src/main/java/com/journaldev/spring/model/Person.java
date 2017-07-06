@@ -7,6 +7,8 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
+//CESAR LOPEZ
+
 /**
  * Entity bean with JPA annotations
  * Hibernate provides JPA implementation
