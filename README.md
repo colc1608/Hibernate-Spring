@@ -2,6 +2,8 @@
 
 Aplication web
 
+Eclipse Mars 2 / Windows 7 / 32bit
+
 Build Path
 	Apache (No)
 	Java compilder JDK 1.6
